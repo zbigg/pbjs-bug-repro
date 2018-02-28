@@ -1,0 +1,5 @@
+package com.foo;
+
+message FooMessage {
+    optional string foo = 1;
+}

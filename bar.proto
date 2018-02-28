@@ -1,0 +1,5 @@
+package com.bar;
+
+message BarMessage {
+    optional string bar = 1;
+}
